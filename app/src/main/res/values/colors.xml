@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">@color/biru</color>
+
+    <color name="coklat">#FFEAA5</color>
+    <color name="biru">#226B80</color>
+</resources>
